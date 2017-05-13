@@ -1,0 +1,15 @@
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\MainWindow.g.cs
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\App.g.cs
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\Ruggeri.Nicolo.5H.WStation_MarkupCompile.cache
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\Ruggeri.Nicolo.5H.WStation_MarkupCompile.lref
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\bin\Debug\Ruggeri.Nicolo.5H.WStation.exe.config
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\bin\Debug\Ruggeri.Nicolo.5H.WStation.exe
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\bin\Debug\Ruggeri.Nicolo.5H.WStation.pdb
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\bin\Debug\Newtonsoft.Json.dll
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\bin\Debug\Newtonsoft.Json.xml
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\MainWindow.baml
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\Ruggeri.Nicolo.5H.WStation.g.resources
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\Ruggeri.Nicolo._5H.WStation.Properties.Resources.resources
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\Ruggeri.Nicolo.5H.WStation.csproj.GenerateResource.Cache
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\Ruggeri.Nicolo.5H.WStation.exe
+D:\Ruggeri.Nicolo.5H.WStation\Ruggeri.Nicolo.5H.WStation\obj\Debug\Ruggeri.Nicolo.5H.WStation.pdb
